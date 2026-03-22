@@ -1,4 +1,4 @@
-#Kalshi AI Trading Bot
+# Kalshi AI Trading Bot
 
 <div align="center">
 
