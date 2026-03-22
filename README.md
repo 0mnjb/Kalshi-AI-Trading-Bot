@@ -592,6 +592,7 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 ## 🔍 Topics
 
 `kalshi-ai-bot`, `ai-trading-bot`, `llm-ensemble`, `grok`, `claude`, `gpt4`, `gemini`, `deepseek`, `prediction-market`, `python`, `streamlit`, `telegram-bot`, `crypto-bot`, `machine-learning`, `risk-management`, `kelly-criterion`, `paper-trading`, `disciplined-trading`, `category-scoring`, `autonomous-trading`, `multi-model`, `consensus-gating`, `openrouter`, `xai-api`, `trading-strategies`, `backtesting`, `dashboard`, `portfolio-management`, `kalshi-api`, `web3`
+
 **If this project is useful to you, consider giving it a в­?*
 
 
